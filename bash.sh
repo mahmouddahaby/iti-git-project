@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "hello world"`
 echo "setup and configure server"
 file_name=config.yaml
 
